@@ -1,0 +1,5 @@
+Min: 33591381
+Max: 44681054
+Median: 36506810
+Average: 37057578
+Elapsed time: 218.036ms

@@ -1,0 +1,5 @@
+Min: 40605949
+Max: 69468345
+Median: 50804059
+Average: 51220579
+Execution Time: 16705.729000 ms 
